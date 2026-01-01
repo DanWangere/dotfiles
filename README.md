@@ -11,6 +11,7 @@ This repository contains configuration files for:
 - **Aerospace** – Window manager workspace definitions
 - **SketchyBar** – macOS status bar, items, and themes
 - **JankyBorders** – Window border styling via borders.app
+- **Maccy** – Lightweight clipboard manager
 
 ## Structure
 
@@ -53,6 +54,7 @@ The installation script will:
 - Install Aerospace window manager
 - Install SketchyBar status bar
 - Install Janky Borders (borders.app)
+- Install Maccy clipboard manager
 - Create symlinks to your home directory
 
 ### Manual Installation

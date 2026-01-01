@@ -52,6 +52,10 @@ brew install sketchybar
 echo "📦 Installing janky borders..."
 brew install borders
 
+# Install Maccy
+echo "📦 Installing Maccy clipboard manager..."
+brew install maccy
+
 # Create the symlinks
 echo "🔗 Creating symlinks with stow..."
 stow -vt ~ aerospace jankyborders sketchybar wezterm zsh
