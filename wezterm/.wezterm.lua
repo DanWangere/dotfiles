@@ -68,7 +68,7 @@ Font
 ]] --
 
 config.font = wezterm.font("MesloLGS Nerd Font Mono")
-config.font_size = 18
+config.font_size = 12
 
 config.window_decorations = "RESIZE"
 config.window_background_opacity = 0.8
